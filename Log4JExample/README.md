@@ -4,8 +4,8 @@
 Here is the POC for Log4J.</p>
 
 <b>Prerequisite:-</b>
-<p>1.Core Java basic knowledge
-2.Maven basic Knowledge as the application uses maven.</p>
+<ul><li>Core Java basic knowledge</li>
+<li>Maven basic Knowledge as the application uses maven.</li></ul>
 
 <b>Configuration for Log4j:-</b>
 <p>If you are using Log4j tool for a stand alone application then, we may configure the same in 2 ways. Such as,
