@@ -8,10 +8,10 @@ Here is the POC for Log4J.</p>
 <li>Maven basic Knowledge as the application uses maven.</li></ul>
 
 <b>Configuration for Log4j:-</b>
-<p>If you are using Log4j tool for a stand alone application then, we may configure the same in 2 ways. Such as,
- Using XML file 
- Using Properties file.
- If you are using the same tool in any web based application then, You may configure the Log4j configuration file location using a Listener in web.xml
+<p>If you are using Log4j tool for a stand alone application then, we may configure the same in 2 ways. Such as,</p>
+ <ul><li>Using XML file</li> 
+ <li>Using Properties file.</li></ul>
+ <p>If you are using the same tool in any web based application then, You may configure the Log4j configuration file location using a Listener in web.xml
  In this application, I am logging the message for a Stand - Alone Application.	</p>
  
 <b>Log4J configuration using XML:-</b>
